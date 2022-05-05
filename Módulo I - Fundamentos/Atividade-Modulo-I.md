@@ -7,8 +7,8 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166849906-5525f2b2-fc96-4389-b800-f20ddfd88de7.PNG" width="2000px" />
 
-- [ ] Finalizado
-- [ ] Finalizado na data correta
+- [x] Finalizado
+- [x] Finalizado na data correta
 - [ ] Finalizado atrasado
 
 <div align="center"> <h1>Atividades</h1>
