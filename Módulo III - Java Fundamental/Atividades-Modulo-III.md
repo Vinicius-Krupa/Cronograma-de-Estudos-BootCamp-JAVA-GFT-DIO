@@ -101,10 +101,10 @@
 
 ---
 
-#### Módulos
+#### Outros Módulos
 
-- [Módulo I - Fundamentos](https://github.com/Vinicius-Krupa/Cr-nograma-de-Estudos-BootCamp-GFT-DIO/blob/master/Modulo%20I/Atividade-Modulo-I.md) 
-- [Módulo II - Setup](https://github.com/Vinicius-Krupa/Cr-nograma-de-Estudos-BootCamp-GFT-DIO/blob/master/Modulo%20II/Atividades-Modulo-II.md) 
-- [Módulo IV - Java Essencial](https://github.com/Vinicius-Krupa/Cr-nograma-de-Estudos-BootCamp-GFT-DIO/blob/master/Modulo%20IV/Atividades-Modulo-IV.md) 
-- [Módulo V - Arquitetura de Sistemas](https://github.com/Vinicius-Krupa/Cr-nograma-de-Estudos-BootCamp-GFT-DIO/blob/master/Modulo%20V/Atividades-Modulo-V.md) 
-- [Módulo VI - Java Avançado](https://github.com/Vinicius-Krupa/Cr-nograma-de-Estudos-BootCamp-GFT-DIO/blob/master/Modulo%20VI/Atividades-Modulo-VI.md)
+- [Módulo I - Fundamentos](https://github.com/Vinicius-Krupa/Cronograma-de-Estudos-BootCamp-JAVA-GFT-DIO/blob/master/M%C3%B3dulo%20I%20-%20Fundamentos/Atividade-Modulo-I.md) 
+- [Módulo II - Setup](https://github.com/Vinicius-Krupa/Cronograma-de-Estudos-BootCamp-JAVA-GFT-DIO/blob/master/M%C3%B3dulo%20II%20-%20Setup/Atividades-Modulo-II.md) 
+- [Módulo IV - Java Essencial](https://github.com/Vinicius-Krupa/Cronograma-de-Estudos-BootCamp-JAVA-GFT-DIO/blob/master/M%C3%B3dulo%20IV%20-%20Java%20Essencial/Atividades-Modulo-IV.md) 
+- [Módulo V - Arquitetura de Sistemas](https://github.com/Vinicius-Krupa/Cronograma-de-Estudos-BootCamp-JAVA-GFT-DIO/blob/master/M%C3%B3dulo%20V%20-%20Arquitetura%20de%20Sistemas/Atividades-Modulo-V.md) 
+- [Módulo VI - Java Avançado](https://github.com/Vinicius-Krupa/Cronograma-de-Estudos-BootCamp-JAVA-GFT-DIO/blob/master/M%C3%B3dulo%20VI%20-%20Java%20Avan%C3%A7ado/Atividades-Modulo-VI.md)
