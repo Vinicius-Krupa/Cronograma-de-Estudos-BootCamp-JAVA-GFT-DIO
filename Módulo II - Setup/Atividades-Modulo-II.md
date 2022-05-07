@@ -7,8 +7,8 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166859766-1298126c-2216-47c4-b4b6-168f7bcd7c77.PNG" width="2000px" />
 
-- [ ] Finalizado
-- [ ] Finalizado na data correta
+- [x] Finalizado
+- [x] Finalizado na data correta
 - [ ] Finalizado atrasado
 
 <div align="center"> <h1>Atividades</h1>
@@ -20,8 +20,8 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166860159-5089b1af-c4a3-4e1e-8ee5-901f9095c6af.PNG" width="1300px" />
 
-- [ ] Finalizado
-- [ ] Finalizado na data correta
+- [x] Finalizado
+- [x] Finalizado na data correta
 - [ ] Finalizado atrasado
 
 ### Anotações
