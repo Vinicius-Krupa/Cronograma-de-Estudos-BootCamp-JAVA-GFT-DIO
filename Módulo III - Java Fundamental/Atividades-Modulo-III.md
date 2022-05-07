@@ -27,7 +27,19 @@
 
 ### Anotações
 
+##### Operadores
 
+precedências:
+
+| Operador       | Precedência           |
+| -------------- | --------------------- |
+| Pós-fixado     | exp++, exp--          |
+| Prefixado      | ++exp, --exp          |
+| Multiplicativo | *, /, %               |
+| Aditivo        | +, -                  |
+| Atribuição     | =, +=, -=, *=, /=, %= |
+
+ 
 
 ---
 
