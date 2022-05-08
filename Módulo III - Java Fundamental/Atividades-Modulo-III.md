@@ -59,9 +59,9 @@ precedências:
 
 <img src="https://user-images.githubusercontent.com/104871562/166861977-8a44dddc-99be-4e8c-a94a-0b039478bba7.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: estava fazendo projeto da faculdade.
 
 ### Anotações
 
@@ -73,9 +73,9 @@ precedências:
 
 <img src="https://user-images.githubusercontent.com/104871562/166862227-a18a0ea6-4de9-465f-bf60-207d601440cd.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: estava fazendo projeto da faculdade.
 
 ### Anotações
 
