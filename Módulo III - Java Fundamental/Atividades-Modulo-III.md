@@ -87,13 +87,20 @@ precedências:
 
 <img src="https://user-images.githubusercontent.com/104871562/166862441-f4da505e-a89b-453e-8cc0-e03a5ef72a96.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: ainda não houve tempo de colocar o conteúdo em dia após o atraso por causa do projeto da faculdade.
 
 ### Anotações
 
+##### Arrays
 
+- Array é um objeto utilizado para armazenar sequencialmente dados do mesmo tipo;
+- Permanecem com o mesmo tamanho depois de criados.
+
+<img src="https://user-images.githubusercontent.com/104871562/167423804-7e7086fa-268b-430f-8930-fe1ec234b75a.PNG" width="1000px" />
+
+​                                                                                        (Semelhante aos vetores e matrizes da linguagem C)
 
 ---
 
