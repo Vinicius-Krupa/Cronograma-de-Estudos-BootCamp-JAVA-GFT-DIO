@@ -8,9 +8,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166861112-9af755ac-6803-4971-aec3-2e45fdccd357.PNG" width="2000px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Assunto sobre collections é muito complexo, tendo que dedicar bom tempo de estudos fora do curso para obter uma boa ou mínima compreensão sobre o tema.
 
 <div align="center"> <h1>Atividades</h1>
 </div>
@@ -108,9 +108,9 @@ precedências:
 
 <img src="https://user-images.githubusercontent.com/104871562/166862662-8632c6ea-b72c-40b5-b100-6d8203e01a7b.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Assunto sobre collections é muito complexo, tendo que dedicar bom tempo de estudos fora do curso para obter uma boa ou mínima compreensão sobre o tema.
 
 ### Anotações
 
@@ -122,9 +122,9 @@ precedências:
 
 <img src="https://user-images.githubusercontent.com/104871562/166862907-8e1047f8-2a19-41c2-a060-af5dc26d8e09.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Assunto sobre collections é muito complexo, tendo que dedicar bom tempo de estudos fora do curso para obter uma boa ou mínima compreensão sobre o tema.
 
 ### Anotações
 
