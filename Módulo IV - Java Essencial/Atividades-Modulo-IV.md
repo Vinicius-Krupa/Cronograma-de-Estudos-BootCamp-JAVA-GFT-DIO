@@ -34,8 +34,8 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166864673-5a27f56f-61cf-4e9e-a41a-0922a6fa1ea1.PNG" width="1300px" />
 
-- [ ] Finalizado
-- [ ] Finalizado na data correta
+- [x] Finalizado
+- [x] Finalizado na data correta
 - [ ] Finalizado atrasado
 
 ### Anotações
