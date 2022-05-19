@@ -7,9 +7,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166864102-e9a9af77-fad7-4730-bfd6-ab1d877e7f20.PNG" width="2000px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Tive que estudar "por fora" bastante tempo para ter uma base melhor sobre java.
 
 <div align="center"> <h1>Atividades</h1>
 </div>
@@ -76,9 +76,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166864948-e753f101-a803-4327-bcc8-281b716017aa.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Tive que estudar "por fora" bastante tempo para ter uma base melhor sobre java.
 
 ### Anotações
 
