@@ -62,9 +62,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166864867-8c641595-a4b7-4df7-91f4-14d933ca199e.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Tive que estudar "por fora" bastante tempo para concluir o projeto.
 
 ### Anotações
 
