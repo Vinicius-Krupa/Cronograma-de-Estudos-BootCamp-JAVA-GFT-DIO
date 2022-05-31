@@ -37,6 +37,19 @@
 
 ---
 
+# :mortar_board:Conclusão
+
+Conforme evoluindo nos módulos, se fez necessário muito estudo a mais do que disponível no BootCamp, e sem o conhecimento prévio disto, o prazo dado no início foi curto. 
+
+Desta forma, viabilizei duas alternativas. 
+
+1. Finalizar o BootCamp no prazo estipulado, porém, absorvendo menos conteúdo.
+2. Finalizar o BootCamp fora do prazo estipulado, porém, absorvendo muito mais conteúdo.
+
+E, optei pela segunda opção mencionada.
+
+---
+
 ## :black_nib:Autor
 
 **Vinicius Krupa de Oliveira**
