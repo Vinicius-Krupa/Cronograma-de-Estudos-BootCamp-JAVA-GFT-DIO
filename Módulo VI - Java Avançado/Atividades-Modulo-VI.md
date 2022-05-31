@@ -7,9 +7,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166871146-875969da-f465-4064-bbf8-853ce4e17bb8.PNG" width="2000px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Estudando através de conteúdos fora do bootcamp, para ter uma maior compreensão sobre o assunto.
 
 <div align="center"> <h1>Atividades</h1>
 </div>
@@ -20,9 +20,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166871288-b3cd50eb-433e-4abb-81db-f8d33e5dc5c1.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Estudando através de conteúdos fora do bootcamp, para ter uma maior compreensão sobre o assunto.
 
 ### Anotações
 
@@ -34,9 +34,9 @@
 
 <img src="https://user-images.githubusercontent.com/104871562/166871488-a28a1622-f0cc-4f51-bcf0-3fd2101f9f4a.PNG" width="1300px" />
 
-- [ ] Finalizado
+- [x] Finalizado
 - [ ] Finalizado na data correta
-- [ ] Finalizado atrasado
+- [x] Finalizado atrasado | Motivo: Estudando através de conteúdos fora do bootcamp, para ter uma maior compreensão sobre o assunto.
 
 ### Anotações
 
